@@ -1,0 +1,1 @@
+# rails-react-postgres-template
