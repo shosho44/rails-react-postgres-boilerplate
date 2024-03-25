@@ -4,6 +4,8 @@ rails, react, postgresでプロジェクトを開始するときのテンプレ�
 
 ## 設定
 ### cloneした直後の手順
+```
 docker compose run api bundle exec rake db:create
 docker compose build
 docker compose up
+```
